@@ -14,7 +14,7 @@ List of Bangladeshi Startups
 - [**`Chaldal`**](https://chaldal.com) : Online grocery store. ***(Last Update: 2021.12.10)***
 - [**`Codepotro`**](https://codepotro.com) : Independent software development company. ***(Last Update: 2021.12.10)***
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***.
-- [**`OraclePii Inovations`***](https://oraclepii.com) : Cloud drive service. ***(Last Update: 2021.12.10)***
+- [**`OraclePii Inovations`**](https://oraclepii.com) : Cloud drive service. ***(Last Update: 2021.12.10)***
 - [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service ***(Last Update: 2021.12.10)***
 - [**`Penguins Club`**](https://thepenguins.club/) : Tech magazine mostly about GNU/Linux and FOSS. ***(Last Update): 2021.12.09)***.
 - [**`Sheba.xyz`**](https://www.sheba.xyz) : Online market place for daily products. ***(Last Update: 2021.12.10)***
