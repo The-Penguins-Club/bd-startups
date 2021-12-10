@@ -5,3 +5,9 @@
 List of startups in Bangladesh.
 
 ## Introduction
+
+## Startups
+
+<!---
+[**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
+--->

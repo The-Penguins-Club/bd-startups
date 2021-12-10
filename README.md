@@ -21,6 +21,11 @@ List of startups in Bangladesh.
 - [**`Zantrik(যান্ত্রিক)‍`**](https://www.zantrik.com) : যানবাহন রক্ষনাবেক্ষন করার সার্ভিস। ***(Last Update: 2021.12.10)***
 - [**`Chaldal(চালডাল)`**](https://chaldal.com) : অনলাইনে নিত্যপ্রয়োজনীয় দ্রব্য অর্ডার করার সার্ভিস। ***(Last Update: 2021.12.10)***
  
+
+<!---
+[**`BN-NAME`**](WEBSITE-URL) : BN-DESCRIPTION। ***(সর্বশেষ আপডেট: BN-YYYY.MM.DD)***
+--->
+
  ## Contributors
 <a href="https://github.com/fazlerabbi37/b-startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fazlerabbi37/b-startups"/>
