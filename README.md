@@ -20,6 +20,8 @@ List of startups in Bangladesh.
 - [**`Truck Lagbe(ট্রাক লাগবে)`**](http://www.trucklagbe.com) : অনলাইনে ট্রাক ভাড়া করার সার্ভিস। ***(Last Update: 2021.12.10)***
 - [**`Zantrik(যান্ত্রিক)‍`**](https://www.zantrik.com) : যানবাহন রক্ষনাবেক্ষন করার সার্ভিস। ***(Last Update: 2021.12.10)***
 - [**`Chaldal(চালডাল)`**](https://chaldal.com) : অনলাইনে নিত্যপ্রয়োজনীয় দ্রব্য অর্ডার করার সার্ভিস। ***(Last Update: 2021.12.10)***
+- [**`Repto (রেপটো)`**](https://repto.com.bd/) : অনলাইন শিক্ষার প্ল্যাটফর্ম। ***(Last Update: 2021.12.10)***
+- [**`Shohoz(সহজ)`**](https://www.shohoz.com/) : অনলাইন অন-ডিমান্ড সার্ভিস প্রোভাইডার। ***(Last Update: 2021.12.10)***
  # Contributors
 <a href="https://github.com/fazlerabbi37/b-startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fazlerabbi37/b-startups"/>
