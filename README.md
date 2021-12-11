@@ -3,7 +3,7 @@
 </h1>
 
 বাংলাদেশি স্টার্টআপগুলোর তালিকা
-> Note : English [README](https://github.com/fazlerabbi37/b-startups/blob/master/README.en.md)/[Webpage](https://fazlerabbi37.github.io/b-startups/README.en).
+> Note : English [README](https://github.com/fazlerabbi37/bd-startups/blob/master/README.en.md)/[Webpage](https://fazlerabbi37.github.io/bd-startups/README.en).
 
 ## পরিচিতি
 - আমরা বাংলাদেশের স্টার্টআপগুলির একটি তালিকা তৈরি করছি।
