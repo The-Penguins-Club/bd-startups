@@ -22,12 +22,11 @@ List of Bangladeshi Startups
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
 - [**`Zantrik‍`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
 
+<!---
+[**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
+--->
+
 ## Contributors
 <a href="https://github.com/fazlerabbi37/b-startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fazlerabbi37/b-startups"/>
 </a>
-
-
-<!---
-[**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
---->

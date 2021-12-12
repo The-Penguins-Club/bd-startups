@@ -2,8 +2,13 @@
     ✨ বিডি স্টার্টআপস ✨
 </h1>
 
-বাংলাদেশি স্টার্টআপগুলোর তালিকা
-> Note : English [README](https://github.com/fazlerabbi37/bd-startups/blob/master/README.en.md)/[Webpage](https://fazlerabbi37.github.io/bd-startups/README.en).
+<p style="text-align:left;">
+    বাংলাদেশি স্টার্টআপগুলোর তালিকা
+    <span style="float:right;">
+      <a href = "https://fazlerabbi37.github.io/bd-startups/README.en">English</a>  
+    </span>
+</p>
+
 
 ## পরিচিতি
 - আমরা বাংলাদেশের স্টার্টআপগুলির একটি তালিকা তৈরি করছি।
@@ -25,11 +30,13 @@
 - [**`রেপটো`**](https://repto.com.bd/) : অনলাইন শিক্ষার প্ল্যাটফর্ম। ***(সর্বশেষ হালনাগাদ: ২০২১.১২.১০)***
 - [**`সহজ`**](https://www.shohoz.com/) : অনলাইন অন-ডিমান্ড সার্ভিস প্রোভাইডার। ***(সর্বশেষ হালনাগাদ: ২০২১.১২.১০)***
 
+<!---
+[**`BN-NAME`**](WEBSITE-URL) : BN-DESCRIPTION। ***(সর্বশেষ হালনাগাদ: BN-YYYY.MM.DD)***
+--->
+
 ## অবদানকারীরা
 <a href="https://github.com/fazlerabbi37/b-startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=fazlerabbi37/b-startups"/>
 </a>
 
-<!---
-[**`BN-NAME`**](WEBSITE-URL) : BN-DESCRIPTION। ***(সর্বশেষ হালনাগাদ: BN-YYYY.MM.DD)***
---->
+
