@@ -21,12 +21,17 @@ List of Bangladeshi Startups
 - [**`Shikho`**](https://shikho.tech) : edTech - Online learning platform. ***(Last Update: 2021.12.10)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
 - [**`Zantrik‍`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
+<<<<<<< HEAD
 - [**`Dingi Technologies Ltd`**](https://www.dingi.tech/) :  Finest Local Map & Lifestyle App. ***(Last Update: 2021.12.13)***
 - [**`Inclusion X`**](https://inclusionx.org/) : Mental Health service. ***(Last Update: 2021.12.13)***
 - [**`The2HourJob`**](https://the2hourjob.com/) : Freelancing service for woman. ***(Last Update: 2021.12.13)***
 - [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
 
+=======
+- [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
+- [**`Shohoz`**](https://www.shohoz.com/) : Online on demand service provider. ***(Last Update: 2021.12.12)***
+>>>>>>> b4fc8cc9ce4e5ec8d2325faeb8ace6b2aae9ce5f
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
