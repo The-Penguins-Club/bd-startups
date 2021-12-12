@@ -21,7 +21,8 @@ List of Bangladeshi Startups
 - [**`Shikho`**](https://shikho.tech) : edTech - Online learning platform. ***(Last Update: 2021.12.10)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
 - [**`Zantrik‍`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
-
+- [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
+- [**`Shohoz`**](https://www.shohoz.com/) : Online on demand service provider. ***(Last Update: 2021.12.12)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
