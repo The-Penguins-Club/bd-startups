@@ -16,7 +16,7 @@ List of Bangladeshi Startups
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***.
 - [**`OraclePii Inovations`**](https://oraclepii.com) : Cloud drive service. ***(Last Update: 2021.12.10)***
 - [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service ***(Last Update: 2021.12.10)***
-- [**`Penguins Club`**](https://thepenguins.club/) : Tech magazine mostly about GNU/Linux and FOSS. ***(Last Update): 2021.12.09)***.
+- [**`The Penguins Club`**](https://thepenguins.club/) : Daily Bangla magazine on open source, Linux, business, privacy and security. ***(Last Update): 2021.12.12)***.
 - [**`Sheba.xyz`**](https://www.sheba.xyz) : Online market place for daily products. ***(Last Update: 2021.12.10)***
 - [**`Shikho`**](https://shikho.tech) : edTech - Online learning platform. ***(Last Update: 2021.12.10)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
