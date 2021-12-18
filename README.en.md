@@ -20,6 +20,7 @@ List of Bangladeshi Startups
 - [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***
+- [**`OraclePii Inovations`**](https://oraclepii.com) : Cloud drive service. ***(Last Update: 2021.12.10)***
 - [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service ***(Last Update: 2021.12.10)***
 - [**`Paperfly`**](http://www.paperfly.com.bd/) : E-commerce delivery solution. ***(Last Update: 2021.12.15)***
 - [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
@@ -30,20 +31,9 @@ List of Bangladeshi Startups
 - [**`The Penguins Club`**](https://thepenguins.club/) : Daily Bangla magazine on open source, Linux, business, privacy and security. ***(Last Update): 2021.12.12)***
 - [**`The2HourJob`**](https://the2hourjob.com/) : Freelancing service for woman. ***(Last Update: 2021.12.13)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
-<<<<<<< HEAD
-<<<<<<< HEAD
-- [**`Zantrik‍`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
-- [**`Bi-Beat`**](https://bibeat.com) : Telemedicine service. ***(Last Update: 2021.12.15)***
-- [**`AppBajar`**](https://appbajar.com) : Marketplace for android application। *** (সর্বশেষ হালনাগাদ: ২০২১.১২.১৫)***
-=======
-- [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
-=======
 - [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
 
->>>>>>> c9675661f1e8cda9cc3325f8c2688df08fa67746
 
-
->>>>>>> upstream/master
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
