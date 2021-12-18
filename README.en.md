@@ -31,11 +31,16 @@ List of Bangladeshi Startups
 - [**`The2HourJob`**](https://the2hourjob.com/) : Freelancing service for woman. ***(Last Update: 2021.12.13)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [**`Zantrik‍`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
 - [**`Bi-Beat`**](https://bibeat.com) : Telemedicine service. ***(Last Update: 2021.12.15)***
 - [**`AppBajar`**](https://appbajar.com) : Marketplace for android application। *** (সর্বশেষ হালনাগাদ: ২০২১.১২.১৫)***
 =======
 - [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
+=======
+- [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
+
+>>>>>>> c9675661f1e8cda9cc3325f8c2688df08fa67746
 
 
 >>>>>>> upstream/master
