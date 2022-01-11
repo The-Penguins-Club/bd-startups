@@ -16,6 +16,7 @@ List of Bangladeshi Startups
 - [**`Chaldal`**](https://chaldal.com) : Online grocery store. ***(Last Update: 2021.12.10)***
 - [**`Codepotro`**](https://codepotro.com) : Independent software development company. ***(Last Update: 2021.12.10)***
 - [**`Dingi Technologies Ltd`**](https://www.dingi.tech/) :  Finest Local Map & Lifestyle App. ***(Last Update: 2021.12.13)***
+- [**`HungryNaki`**](https://hungrynaki.com/) :  Online food delivery service ***(Last Update: 2022.01.11)***
 - [**`Inclusion X`**](https://inclusionx.org/) : Mental Health service. ***(Last Update: 2021.12.13)***
 - [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
