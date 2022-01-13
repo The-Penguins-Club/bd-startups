@@ -5,7 +5,7 @@
 <p style="text-align:left;">
     বাংলাদেশি স্টার্টআপগুলোর তালিকা
     <span style="float:right;">
-      <a href = "https://the-penguins-club.github.io/bd-startups/README.en">English</a>  
+      <a href = "https://the-penguins-club.github.io/bd-startups/README.en">Read this page in English</a>  
     </span>
 </p>
 
