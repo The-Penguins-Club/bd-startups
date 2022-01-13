@@ -5,7 +5,7 @@
 <p style="text-align:left;">
     List of Bangladeshi startups
     <span style="float:right;">
-      <a href = "https://the-penguins-club.github.io/bd-startups/README">এই পেইজটি বাংলায় পড়ুন</a>  
+      <a href = "https://the-penguins-club.github.io/bd-startups">এই পেইজটি বাংলায় পড়ুন</a>  
     </span>
 </p>
 
