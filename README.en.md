@@ -2,7 +2,12 @@
     ✨ BD Startups ✨
 </h1>
 
-List of Bangladeshi Startups
+<p style="text-align:left;">
+    List of Bangladeshi startups
+    <span style="float:right;">
+      <a href = "https://the-penguins-club.github.io/bd-startups/README">এই পেইজটি বাংলায় পড়ুন</a>  
+    </span>
+</p>
 
 ## Introduction
 - We're making a list of Bangladeshi startups.
