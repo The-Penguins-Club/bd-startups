@@ -39,7 +39,13 @@
 - [**`The2HourJob`**](https://the2hourjob.com/) : Freelancing service for woman. ***(Last Update: 2021.12.13)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
 - [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
-
+- [**`Bi-Beat Limited`**](https://bibeat.com/) : BiBeat Limited provides telemedicine based on internet software and integrated tell diagnostic devices. ***(Last Update: -2022.01.23)***
+- [**`Khamar-E`**](https://khamar-e.com/) : Khamar-e is a agro-tech startup in Bangladesh. ***(Last Update: 2022.01.23)***
+- [**`DocTime`**](https://doctime.com.bd/) : DocTime is a telemedicine service provider ***(Last Update: 2022.01.24)***
+- [**`SME Vai`**](https://smevai.com/) : SMEVAI is the One Stop Business Solution for SMEs covering. ***(Last Update: 2022.01.24)***
+- [**`Maya`**](https://m.mayaiswithyou.com/) : Maya is telemedicine service specially for women. ***(Last Update: 2022.01.24)***
+- [**`Tally Khata`**](https://www.tallykhata.com/) : Tally Khata app can be handy for keeping financial records of SMEs. ***(Last Update: 2022.01.24)***
+- [**`Programming Hero`**](https://www.programming-hero.com/) : Programming Learning App. ***(Last Update: 2022.01.24)***
 
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
