@@ -46,6 +46,8 @@
 - [**`Tally Khata`**](https://www.tallykhata.com/) : Tally Khata app can be handy for keeping financial records of SMEs. ***(Last Update: 2022.01.24)***
 - [**`Programming Hero`**](https://www.programming-hero.com/) : Programming Learning App. ***(Last Update: 2022.01.24)***
 - [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
+- [**`Boi Pathok`**](https://boipathok.com/) : Digital edition of the traditional library. ***(Last Update: 2022.04.03)***
+- [**`Khelbei Bangladesh`**](https://kbangla.com/) : Sports solution platform for everyone. ***(Last Update: 2022.04.03)***
 
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
