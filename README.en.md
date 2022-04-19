@@ -16,6 +16,7 @@
 ## Startups
 - [**`10 Minute School`**](https://10minuteschool.com) : eDTech - Academic and skill development learning platform. ***(Last Update: 2021.12.10)***
 - [**`Ajkerdeal`**](https://ajkerdeal.com) : Online shopping platform ***(Last Update: 2021.12.15)***
+- [**`Arogga`**](https://www.arogga.com/) Doorstep delivery service for medicine and healthcare service :  ***(Last Update: 2022.04.19)***
 - [**`Bkash`**](https://www.bkash.com/) : Mobile banking solution. ***(Last Update: 2021.12.09)***
 - [**`Bdjobs`**](https://www.bdjobs.com/) : Job searching platform. ***(Last Update: 2021.12.15)***
 - [**`Chaldal`**](https://chaldal.com) : Online grocery store. ***(Last Update: 2021.12.10)***
@@ -47,7 +48,13 @@
 - [**`Programming Hero`**](https://www.programming-hero.com/) : Programming Learning App. ***(Last Update: 2022.01.24)***
 - [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
 - [**`Boi Pathok`**](https://boipathok.com/) : Digital edition of the traditional library. ***(Last Update: 2022.04.03)***
-- [**`Khelbei Bangladesh`**](https://kbangla.com/) : Sports solution platform for everyone. ***(Last Update: 2022.04.03)***
+- [**`DataXpie`**](https://dataxpie.com) : Digital Product store. *** (Last Update: 2022.04.19)***
+- [**`HandyMama`**](https://handymama.co) : Online on-demand service provider. *** (Last Update: 2022.04.19)***
+- [**`Gaze`**](https://www.gaze.ai) : Artificial Intelligence  related startup. *** (Last Update: 2022.04.19)***
+- [**`SOLshare`**](https://me-solshare.com) : Solar energy sharing platform.  *** (Last Update: 2022.04.19)***
+- [**`Nitex`**](https://
+nitex.com) : End to End supply chain management fore clothing brand. *** (Last Update: 2022.04.19)***
+- [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food  *** (Last Update: 2022.04.19)***
 
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
