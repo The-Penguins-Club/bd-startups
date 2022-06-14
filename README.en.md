@@ -25,7 +25,6 @@
 - [**`Gaze`**](https://developer.gaze.ai/) :  API for visual recognition, biometric and other services ***(Last Update: 2022.01.12)***
 - [**`HungryNaki`**](https://hungrynaki.com/) :  Online food delivery service ***(Last Update: 2022.01.11)***
 - [**`Inclusion X`**](https://inclusionx.org/) : Mental Health service. ***(Last Update: 2021.12.13)***
-- [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***
 - [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service ***(Last Update: 2021.12.10)***
@@ -59,6 +58,9 @@ nitex.com) : End to End supply chain management fore clothing brand. *** (Last U
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
+
+## Not Active but Great Idea
+- [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2022.06.14)***
 
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
