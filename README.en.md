@@ -11,7 +11,7 @@
 
 ## Introduction
 - We're making a list of Bangladeshi startups.
-- If you know any startup that's not listed here then [fork](https://github.com/fazlerabbi37/b-startups/fork) this repo and contribute. Also you can create an [issue](https://github.com/fazlerabbi37/b-startups/issues).
+- If you know any startup that's not listed here then [fork](https://github.com/The-Penguins-Club/bd-startups/fork) this repo and contribute. Also you can create an [issue](https://github.com/The-Penguins-Club/bd-startups/issues).
 
 ## Startups
 - [**`10 Minute School`**](https://10minuteschool.com) : eDTech - Academic and skill development learning platform. ***(Last Update: 2021.12.10)***
