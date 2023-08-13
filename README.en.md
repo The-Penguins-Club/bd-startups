@@ -54,6 +54,7 @@
 - [**`Nitex`**](https://nitex.com) : End to End supply chain management fore clothing brand. *** (Last Update: 2022.04.19)***
 - [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food  *** (Last Update: 2022.04.19)***
 - [**`Roots Edu`**](https://rootsedulive.com/) : Ed-tech Platform *** (Last Update: 2023.04.19)***
+- [**`JaduPC`**](https://jadupc.com/) : Low cost computers with ARM based SBCs (single board computers). ***(Last Update: EN-2023.08.13)***
 
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
