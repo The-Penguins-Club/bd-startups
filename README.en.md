@@ -54,8 +54,11 @@
 - [**`Nitex`**](https://nitex.com) : End to End supply chain management fore clothing brand. *** (Last Update: 2022.04.19)***
 - [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food  *** (Last Update: 2022.04.19)***
 - [**`Roots Edu`**](https://rootsedulive.com/) : Ed-tech Platform *** (Last Update: 2023.04.19)***
-- [**`JaduPC`**](https://jadupc.com/) : Low cost computers with ARM based SBCs (single board computers). ***(Last Update: EN-2023.08.13)***
-
+- [**`JaduPC`**](https://jadupc.com/) : Low cost computers with ARM based SBCs (single board computers). ***(Last Update: 2023.08.13)***
+- [**`Chorcha`**](https://chorcha.net/) : Chorcha is a HSC and admission-focused quiz-based preparation platform. ***(Last Update: 2023.08.14)***
+- [**`Tinkers`**](https://tinkers.ltd/) : Tinkers is an edtech startup focusing on teaching kids. ***(Last Update: 2023.08.14)***
+- [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
+- [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
