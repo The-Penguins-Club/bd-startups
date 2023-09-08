@@ -59,6 +59,7 @@
 - [**`Tinkers`**](https://tinkers.ltd/) : Tinkers is an edtech startup focusing on teaching kids. ***(Last Update: 2023.08.14)***
 - [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
 - [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)
+- [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary! ***(Last Update: 2023.09.08)
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
