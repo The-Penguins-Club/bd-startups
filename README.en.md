@@ -47,19 +47,19 @@
 - [**`Programming Hero`**](https://www.programming-hero.com/) : Programming Learning App. ***(Last Update: 2022.01.24)***
 - [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
 - [**`Boi Pathok`**](https://boipathok.com/) : Digital edition of the traditional library. ***(Last Update: 2022.04.03)***
-- [**`DataXpie`**](https://dataxpie.com) : Digital Product store. *** (Last Update: 2022.04.19)***
-- [**`HandyMama`**](https://handymama.co) : Online on-demand service provider. *** (Last Update: 2022.04.19)***
-- [**`Gaze`**](https://www.gaze.ai) : Artificial Intelligence  related startup. *** (Last Update: 2022.04.19)***
-- [**`SOLshare`**](https://me-solshare.com) : Solar energy sharing platform.  *** (Last Update: 2022.04.19)***
-- [**`Nitex`**](https://nitex.com) : End to End supply chain management fore clothing brand. *** (Last Update: 2022.04.19)***
-- [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food  *** (Last Update: 2022.04.19)***
-- [**`Roots Edu`**](https://rootsedulive.com/) : Ed-tech Platform *** (Last Update: 2023.04.19)***
+- [**`DataXpie`**](https://dataxpie.com) : Digital Product store. ***(Last Update: 2022.04.19)***
+- [**`HandyMama`**](https://handymama.co) : Online on-demand service provider. ***(Last Update: 2022.04.19)***
+- [**`Gaze`**](https://www.gaze.ai) : Artificial Intelligence  related startup. ***(Last Update: 2022.04.19)***
+- [**`SOLshare`**](https://me-solshare.com) : Solar energy sharing platform.  ***(Last Update: 2022.04.19)***
+- [**`Nitex`**](https://nitex.com) : End to End supply chain management fore clothing brand. ***(Last Update: 2022.04.19)***
+- [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food  ***(Last Update: 2022.04.19)***
+- [**`Roots Edu`**](https://rootsedulive.com/) : Ed-tech Platform ***(Last Update: 2023.04.19)***
 - [**`JaduPC`**](https://jadupc.com/) : Low cost computers with ARM based SBCs (single board computers). ***(Last Update: 2023.08.13)***
 - [**`Chorcha`**](https://chorcha.net/) : Chorcha is a HSC and admission-focused quiz-based preparation platform. ***(Last Update: 2023.08.14)***
 - [**`Tinkers`**](https://tinkers.ltd/) : Tinkers is an edtech startup focusing on teaching kids. ***(Last Update: 2023.08.14)***
 - [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
-- [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)
-- [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary! ***(Last Update: 2023.09.08)
+- [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)***
+- [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary! ***(Last Update: 2023.09.08)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
