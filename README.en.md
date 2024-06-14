@@ -60,12 +60,14 @@
 - [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
 - [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)***
 - [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary! ***(Last Update: 2023.09.08)***
+- [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
 
+<!---
 ## Not Active but Great Idea
-- [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2022.06.14)***
+--->
 
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
