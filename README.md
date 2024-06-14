@@ -70,6 +70,7 @@
 ## নিষ্ক্রিয়, তবে ভালো আইডিয়া
 - [**`হাঙ্গরি নাকি`**](https://hungrynaki.com/) : অনলাইন ফুড ডেলিভারি সার্ভিস। ***(সর্বশেষ হালনাগাদ: ২০২৪.০৬.১৪)***
 
+
 ## অবদানকারীরা
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=The-Penguins-Club/bd-startups"/>
