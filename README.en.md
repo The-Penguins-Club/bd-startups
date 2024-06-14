@@ -61,6 +61,7 @@
 - [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)***
 - [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary! ***(Last Update: 2023.09.08)***
 - [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
+- [**`BD Recycle Technologies Limited (BRTL)`**](https://brtlcenter.com/) : A tech-based platform where all the waste collectors, dealers, recyclers & consumers are connected. ***(Last Update: 2024.06.14)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
