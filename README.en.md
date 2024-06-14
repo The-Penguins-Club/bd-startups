@@ -23,7 +23,6 @@
 - [**`Codepotro`**](https://codepotro.com) : Independent software development company. ***(Last Update: 2021.12.10)***
 - [**`Dingi Technologies Ltd`**](https://www.dingi.tech/) :  Finest Local Map & Lifestyle App. ***(Last Update: 2021.12.13)***
 - [**`Gaze`**](https://developer.gaze.ai/) :  API for visual recognition, biometric and other services ***(Last Update: 2022.01.12)***
-- [**`HungryNaki`**](https://hungrynaki.com/) :  Online food delivery service ***(Last Update: 2022.01.11)***
 - [**`Inclusion X`**](https://inclusionx.org/) : Mental Health service. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***
@@ -40,9 +39,9 @@
 - [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
 - [**`Bi-Beat Limited`**](https://bibeat.com/) : BiBeat Limited provides telemedicine based on internet software and integrated tell diagnostic devices. ***(Last Update: -2022.01.23)***
 - [**`Khamar-E`**](https://khamar-e.com/) : Khamar-e is a agro-tech startup in Bangladesh. ***(Last Update: 2022.01.23)***
-- [**`DocTime`**](https://doctime.com.bd/) : DocTime is a telemedicine service provider ***(Last Update: 2022.01.24)***
+- [**`DocTime`**](https://doctime.com.bd/) : DocTime is a telemedicine service provider.   ***(Last Update: 2022.01.24)***
 - [**`SME Vai`**](https://smevai.com/) : SMEVAI is the One Stop Business Solution for SMEs covering. ***(Last Update: 2022.01.24)***
-- [**`Maya`**](https://m.mayaiswithyou.com/) : Maya is telemedicine service specially for women. ***(Last Update: 2022.01.24)***
+- [**`Maya`**](https://m.mayaiswithyou.com/) : Maya is telemedicine service specially for women.     ***(Last Update: 2022.01.24)***
 - [**`Tally Khata`**](https://www.tallykhata.com/) : Tally Khata app can be handy for keeping financial records of SMEs. ***(Last Update: 2022.01.24)***
 - [**`Programming Hero`**](https://www.programming-hero.com/) : Programming Learning App. ***(Last Update: 2022.01.24)***
 - [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
@@ -53,7 +52,7 @@
 - [**`SOLshare`**](https://me-solshare.com) : Solar energy sharing platform.  ***(Last Update: 2022.04.19)***
 - [**`Nitex`**](https://nitex.com) : End to End supply chain management fore clothing brand. ***(Last Update: 2022.04.19)***
 - [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food  ***(Last Update: 2022.04.19)***
-- [**`Roots Edu`**](https://rootsedulive.com/) : Ed-tech Platform ***(Last Update: 2023.04.19)***
+- [**`Roots Edu`**](https://rootsedulive.com/) : Ed-tech Platform. ***(Last Update: 2023.04.19)***
 - [**`JaduPC`**](https://jadupc.com/) : Low cost computers with ARM based SBCs (single board computers). ***(Last Update: 2023.08.13)***
 - [**`Chorcha`**](https://chorcha.net/) : Chorcha is a HSC and admission-focused quiz-based preparation platform. ***(Last Update: 2023.08.14)***
 - [**`Tinkers`**](https://tinkers.ltd/) : Tinkers is an edtech startup focusing on teaching kids. ***(Last Update: 2023.08.14)***
@@ -66,9 +65,8 @@
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
 
-<!---
 ## Not Active but Great Idea
---->
+- [**`HungryNaki`**](https://hungrynaki.com/) :  Online food delivery service. ***(Last Update: 2024.06.14)***
 
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
