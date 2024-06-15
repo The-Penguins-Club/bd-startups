@@ -73,7 +73,8 @@
 
 ## অবদানকারীরা
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=The-Penguins-Club/bd-startups"/>
+  <img src="https://contrib.rocks/image?repo=The-Penguins-Club/bd-startups" />
 </a>
 
+Made with [contrib.rocks](https://contrib.rocks).
 
