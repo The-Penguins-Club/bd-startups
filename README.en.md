@@ -66,7 +66,7 @@
 --->
 
 ## Not Active but Great Idea
-- [**`HungryNaki`**](https://hungrynaki.com/) :  Online food delivery service. ***(Last Update: 2024.06.14)***
+- [**`Portbliss`**](https://www.portbliss.org/) : Has started its startup journey with a mobile game called Heroes of 71. ***(Last Update: 2024.06.15)***
 
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
