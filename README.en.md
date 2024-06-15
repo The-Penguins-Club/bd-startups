@@ -16,7 +16,7 @@
 ## Startups
 - [**`10 Minute School`**](https://10minuteschool.com) : eDTech - Academic and skill development learning platform. ***(Last Update: 2021.12.10)***
 - [**`Ajkerdeal`**](https://ajkerdeal.com) : Online shopping platform. ***(Last Update: 2021.12.15)***
-- [**`Arogga`**](https://www.arogga.com/) Doorstep delivery service for medicine and healthcare service : ***(Last Update: 2022.04.19)***
+- [**`Arogga`**](https://www.arogga.com/) Doorstep delivery service for medicine and healthcare service. ***(Last Update: 2022.04.19)***
 - [**`Bkash`**](https://www.bkash.com/) : Mobile banking solution. ***(Last Update: 2021.12.09)***
 - [**`Bdjobs`**](https://www.bdjobs.com/) : Job searching platform. ***(Last Update: 2021.12.15)***
 - [**`Chaldal`**](https://chaldal.com) : Online grocery store. ***(Last Update: 2021.12.10)***
@@ -26,7 +26,7 @@
 - [**`Inclusion X`**](https://inclusionx.org/) : Mental Health service. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***
-- [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service ***(Last Update: 2021.12.10)***
+- [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service. ***(Last Update: 2021.12.10)***
 - [**`Paperfly`**](http://www.paperfly.com.bd/) : E-commerce delivery solution. ***(Last Update: 2021.12.15)***
 - [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
 - [**`Sheba.xyz`**](https://www.sheba.xyz) : Online market place for daily products. ***(Last Update: 2021.12.10)***
