@@ -67,7 +67,8 @@
 
 ## Not Active but Great Idea
 - [**`Portbliss`**](https://www.portbliss.org/) : Has started its startup journey with a mobile game called Heroes of 71. ***(Last Update: 2024.06.15)***
-- [**`khujun.com`**](https://www.hugedomains.com/domain_profile.cfm?d=khujun.com/) : Vertical search engine helps search content from a list of Bangladesh-specific websites and it's free for users. ***(Last Update: 2024.06.20)*** 
+- [**`khujun.com`**](https://www.hugedomains.com/domain_profile.cfm?d=khujun.com/) : Vertical search engine helps search content from a list of Bangladesh-specific websites and it's free for users. ***(Last Update: 2024.06.20)***
+- [**`Admission Ninja`**](https://www.admissionninja.com/) : A mobile app that is a complete and alternative solution for coaching and admission tests of universities in the country. ***(Last Update: 2024.06.20)***
 
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
