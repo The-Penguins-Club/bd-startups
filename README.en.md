@@ -62,6 +62,7 @@
 - [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary! ***(Last Update: 2023.09.08)***
 - [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
 - [**`BD Recycle Technologies Limited (BRTL)`**](https://brtlcenter.com/) : A tech-based platform where all the waste collectors, dealers, recyclers & consumers are connected. ***(Last Update: 2024.06.14)***
+- [**`DuboTech`**](https://dubotech.com/) : DuboTech is a pioneering deep tech startup from Bangladesh, specializing in cutting-edge underwater technology. ***(Last Update: 2024.12.12)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
