@@ -22,7 +22,6 @@
 - [**`Chaldal`**](https://chaldal.com) : Online grocery store. ***(Last Update: 2021.12.10)***
 - [**`Codepotro`**](https://codepotro.com) : Independent software development company. ***(Last Update: 2021.12.10)***
 - [**`Dingi Technologies Ltd`**](https://www.dingi.tech/) :  Finest Local Map & Lifestyle App. ***(Last Update: 2021.12.13)***
-- [**`Gaze`**](https://developer.gaze.ai/) :  API for visual recognition, biometric and other services. ***(Last Update: 2022.01.12)***
 - [**`Inclusion X`**](https://inclusionx.org/) : Mental Health service. ***(Last Update: 2021.12.13)***
 - [**`Khelbei Bangladesh`**](https://kbangla.com/) : Online Game Learning Platform. ***(Last Update: 2021.12.13)***
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***
