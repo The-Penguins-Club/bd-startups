@@ -28,7 +28,6 @@
 - [**`OpenRefactory`**](https://www.openrefactory.com) : Intelligent code repair solution. ***(Last Update: 2021.12.10)***
 - [**`Pathao`**](https://pathao.com/) : Ride sharing and parcel service. ***(Last Update: 2021.12.10)***
 - [**`Paperfly`**](http://www.paperfly.com.bd/) : E-commerce delivery solution. ***(Last Update: 2021.12.15)***
-- [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
 - [**`Sheba.xyz`**](https://www.sheba.xyz) : Online market place for daily products. ***(Last Update: 2021.12.10)***
 - [**`Shikho`**](https://shikho.tech) : edTech - Online learning platform. ***(Last Update: 2021.12.10)***
 - [**`Shohoz`**](https://www.shohoz.com/) : Online on demand service provider. ***(Last Update: 2021.12.12)***
@@ -41,14 +40,11 @@
 - [**`Khamar-E`**](https://khamar-e.com/) : Khamar-e is a agro-tech startup in Bangladesh. ***(Last Update: 2022.01.23)***
 - [**`DocTime`**](https://doctime.com.bd/) : DocTime is a telemedicine service provider. ***(Last Update: 2022.01.24)***
 - [**`SME Vai`**](https://smevai.com/) : SMEVAI is the One Stop Business Solution for SMEs covering. ***(Last Update: 2022.01.24)***
-- [**`Maya`**](https://m.mayaiswithyou.com/) : Maya is telemedicine service specially for women. ***(Last Update: 2022.01.24)***
 - [**`Tally Khata`**](https://www.tallykhata.com/) : Tally Khata app can be handy for keeping financial records of SMEs. ***(Last Update: 2022.01.24)***
 - [**`Programming Hero`**](https://www.programming-hero.com/) : Programming Learning App. ***(Last Update: 2022.01.24)***
-- [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
 - [**`Boi Pathok`**](https://boipathok.com/) : Digital edition of the traditional library. ***(Last Update: 2022.04.03)***
 - [**`DataXpie`**](https://dataxpie.com) : Digital Product store. ***(Last Update: 2022.04.19)***
 - [**`HandyMama`**](https://handymama.co) : Online on-demand service provider. ***(Last Update: 2022.04.19)***
-- [**`Gaze`**](https://www.gaze.ai) : Artificial Intelligence  related startup. ***(Last Update: 2022.04.19)***
 - [**`SOLshare`**](https://me-solshare.com) : Solar energy sharing platform. ***(Last Update: 2022.04.19)***
 - [**`Nitex`**](https://nitex.com) : End to End supply chain management fore clothing brand. ***(Last Update: 2022.04.19)***
 - [**`Khaas Food`**](https://www.khaasfood.com) : E-commerce service for Organic food. ***(Last Update: 2022.04.19)***
@@ -56,10 +52,8 @@
 - [**`JaduPC`**](https://jadupc.com/) : Low cost computers with ARM based SBCs (single board computers). ***(Last Update: 2023.08.13)***
 - [**`Chorcha`**](https://chorcha.net/) : Chorcha is a HSC and admission-focused quiz-based preparation platform. ***(Last Update: 2023.08.14)***
 - [**`Tinkers`**](https://tinkers.ltd/) : Tinkers is an edtech startup focusing on teaching kids. ***(Last Update: 2023.08.14)***
-- [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
 - [**`Zatiq`**](https://www.zatiq.com/) : Zatiq is a fintech software and hardware startup. ***(Last Update: 2023.08.14)***
-- [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary. ***(Last Update: 2023.09.08)***
-- [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
+- [**`JoBike`**](https://www.jobike.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
 - [**`BD Recycle Technologies Limited (BRTL)`**](https://brtlcenter.com/) : A tech-based platform where all the waste collectors, dealers, recyclers & consumers are connected. ***(Last Update: 2024.06.14)***
 - [**`DuboTech`**](https://dubotech.com/) : DuboTech is a pioneering deep tech startup from Bangladesh, specializing in cutting-edge underwater technology. ***(Last Update: 2024.12.12)***
 <!---
