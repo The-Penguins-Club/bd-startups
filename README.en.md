@@ -31,7 +31,6 @@
 - [**`Shikho`**](https://shikho.tech) : edTech - Online learning platform. ***(Last Update: 2021.12.10)***
 - [**`Shohoz`**](https://www.shohoz.com/) : Online on demand service provider. ***(Last Update: 2021.12.12)***
 - [**`Shopup`**](https://shopup.com.bd/) : Online shopping platform. ***(Last Update: 2021.12.15)***
-- [**`The Penguins Club`**](https://thepenguins.club/) : Daily Bangla magazine on open source, Linux, business, privacy and security. ***(Last Update: 2021.12.12)***
 - [**`The2HourJob`**](https://the2hourjob.com/) : Freelancing service for woman. ***(Last Update: 2021.12.13)***
 - [**`Truck Lagbe`**](http://www.trucklagbe.com) : Online truck hiring service. ***(Last Update: 2021.12.10)***
 - [**`Zantrik`**](https://www.zantrik.com) : Automobile repairing service. ***(Last Update: 2021.12.10)***
