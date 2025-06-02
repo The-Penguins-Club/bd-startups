@@ -63,6 +63,16 @@
 - [**`khujun.com`**](https://www.hugedomains.com/domain_profile.cfm?d=khujun.com/) : Vertical search engine helps search content from a list of Bangladesh-specific websites and it's free for users. ***(Last Update: 2024.06.20)***
 - [**`Admission Ninja`**](https://www.admissionninja.com/) : A mobile app that is a complete and alternative solution for coaching and admission tests of universities in the country. ***(Last Update: 2024.06.20)***
 
+## Inactive
+- [**`Gaze`**](https://developer.gaze.ai/) : API for visual recognition, biometric and other services. ***(Last Update: 2022.01.12)***
+- [**`Repto`**](https://repto.com.bd/) : Online education platform. ***(Last Update: 2021.12.12)***
+- [**`The Penguins Club`**](https://thepenguins.club/) : Daily Bangla magazine on open source, Linux, business, privacy and security. ***(Last Update: 2021.12.12)***
+- [**`Maya`**](https://m.mayaiswithyou.com/) : Maya is telemedicine service specially for women. ***(Last Update: 2022.01.24)***
+- [**`BiddinGO Ride`**](https://biddingo.app/) : BiddinGO is a ridesharing app that works for sharing ride as customer demand. ***(Last Update: 2022.03.30)***
+- [**`Gaze`**](https://www.gaze.ai) : Artificial Intelligence related startup. ***(Last Update: 2022.04.19)***
+- [**`Hackverse`**](https://www.hackverse.dev/) : Hackverse is a hackathon-conducting platform. ***(Last Update: 2023.08.14)***
+- [**`Mitro`**](https://mitro.io/en) : Platform for withdraw advance salary. ***(Last Update: 2023.09.08)***
+  
 ## Contributors
 <a href="https://github.com/The-Penguins-Club/bd-startups/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=The-Penguins-Club/bd-startups" />
