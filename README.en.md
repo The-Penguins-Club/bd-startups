@@ -62,6 +62,7 @@
 - [**`JoBike`**](https://www.jo.bike/) : JoBike is the first “station-less” bike-sharing service in Bangladesh. ***(Last Update: 2024.06.14)***
 - [**`BD Recycle Technologies Limited (BRTL)`**](https://brtlcenter.com/) : A tech-based platform where all the waste collectors, dealers, recyclers & consumers are connected. ***(Last Update: 2024.06.14)***
 - [**`DuboTech`**](https://dubotech.com/) : DuboTech is a pioneering deep tech startup from Bangladesh, specializing in cutting-edge underwater technology. ***(Last Update: 2024.12.12)***
+- [**`Cassetex`**](https://www.cassetex.com/) : Cassetex is 1st Solar Battery Swapping in Bangladesh. ***(Last Update: 2025.06.22)***
 <!---
 [**`EN-NAME`**](WEBSITE-URL) : EN-DESCRIPTION। ***(Last Update: EN-YYYY.MM.DD)***
 --->
